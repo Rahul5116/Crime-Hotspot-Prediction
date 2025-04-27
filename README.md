@@ -10,6 +10,8 @@ Welcome to the **Crime Hotspot Prediction** web app built with **Streamlit**, pr
 - **Model Evaluation**: The app evaluates the model's performance with MSE, RMSE, and R² scores, and visualizes feature importance.
 - **Interactive UI**: User-friendly interface built using **Streamlit** for easy navigation and interaction.
 
+LIVE DEMO - https://crime-hotspot-prediction-vdvx5cdsz8eflcrtryup9t.streamlit.app/
+
 ## 📂 Directory Structure
 
 ```
